@@ -1,0 +1,2 @@
+font-family: 'Avenir Next Cyr';
+font-weight: 450 , 600, 750;
